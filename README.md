@@ -93,9 +93,3 @@ xgboost
 
 ---
 
-## Regeln & Hinweise
-
-- Die Teilnahme war Pflichtvoraussetzung für die Klausurzulassung.
-- Es durften keine echten Beobachtungsdaten des Testzeitraums verwendet werden.
-- Pro Tag waren maximal 20 Submissions erlaubt (pro Team).
-- Deadline: **4. Juli 2025, 23:55 Uhr**
