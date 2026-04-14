@@ -69,15 +69,6 @@ Das finale Ensemble übertrifft den LR-Benchmark (620,3), wobei LightGBM als bes
 
 ---
 
-## Projektstruktur
-
-```
-├── Das_Team-Hackathon_1.ipynb   # Haupt-Notebook mit gesamtem Code
-├── submission_advanced_weightedensemble.csv  # Finale Submission
-└── README.md
-```
-
----
 
 ## Abhängigkeiten
 
